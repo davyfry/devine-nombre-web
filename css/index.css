@@ -9,3 +9,14 @@ h2 {
     height: 100vh;
     
 }
+
+body {
+    align-items: center;
+    justify-content: center;
+    min-height: 1OOvh;
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
